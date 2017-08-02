@@ -1,0 +1,11 @@
+{
+  "name": "flex-sdk",
+  "version": "4.15.0",
+  "description": "npm package containing the Apache Flex SDK",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jacobenget/flex-sdk.git"
+  },
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/jacobenget/flex-sdk#readme"
+}
